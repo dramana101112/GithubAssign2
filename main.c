@@ -10,9 +10,7 @@ Initial Function2()
  //Sample Code
 }
 
-Initial Function3()
-{
-}
+
 
 
 }
