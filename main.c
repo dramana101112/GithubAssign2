@@ -5,9 +5,14 @@ Initial Function()
   //Sample Code
 }
 
-feaature2()
+Initial Function2()
 {
-  //Sample Code for Feature 2
+ //Sample Code
+}
+
+Initial Function3()
+{
+ //Security patch
 }
 
 
